@@ -37,7 +37,7 @@ Each file has a **Title** and short **Description**.
 
 | 🗂 File Name | 🎯 Title | 📝 Description |
 |--------------|----------|----------------|
-| `Program1.cs` | Hello World 🌍 | My first C# console app testing UTF‑8 and Unicode output. |
+| `week_01.cs` | Hello World 🌍 | My first C# console app testing `Write` and output. |
 | `Calculator.cs` | Simple Calculator ➕➖ | Practice with basic math operations and user input handling. |
 | `LoopsExample.cs` | Loops Practice 🔁 | Demonstrating `for`, `while`, and `foreach` loops with examples. |
 | `EmojiTest.cs` | Emoji Print 😊✨ | Testing emoji output and console encoding behavior in VS Code. |
