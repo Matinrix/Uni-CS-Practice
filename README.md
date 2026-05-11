@@ -38,8 +38,8 @@ Each file has a **Title** and short **Description**.
 | 🗂 File Name | 🎯 Title | 📝 Description |
 |--------------|----------|----------------|
 | `week_01.cs` | Hello World 🌍 | My first C# console app testing `Write` and output. |
-| `Calculator.cs` | Simple Calculator ➕➖ | Practice with basic math operations and user input handling. |
-| `LoopsExample.cs` | Loops Practice 🔁 | Demonstrating `for`, `while`, and `foreach` loops with examples. |
+| `week_02.cs` | Variabls 🔠 | Practice how to deal with variables. |
+| `week_02_homework.cs` | Calculator 🔁 | My first `C#` home work , I made a simple calculator which gets two numbers from user an calculates these operations : `+` `-` `*` `/` `%` |
 | `EmojiTest.cs` | Emoji Print 😊✨ | Testing emoji output and console encoding behavior in VS Code. |
 
 ---
